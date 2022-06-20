@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCStar", "CCStar\CCStar.csproj", "{6C026E9A-D55A-442F-B0F2-94324DB6633A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C026E9A-D55A-442F-B0F2-94324DB6633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C026E9A-D55A-442F-B0F2-94324DB6633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C026E9A-D55A-442F-B0F2-94324DB6633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C026E9A-D55A-442F-B0F2-94324DB6633A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495209D3-1A7F-4606-8EFF-20E5691553FB}
+	EndGlobalSection
+EndGlobal
