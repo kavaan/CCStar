@@ -1,5 +1,6 @@
 # CCStar
-Currency Converter using "Breadth-First Search" algorithm with .net console app 
+Currency Converter using "Breadth-First Search" algorithm with .net console app.
+
 a configurable module that given a list of currency exchange rates, converts currencies to one
 another. Assume we have the following conversion rates:
 - (USD => CAD) 2.42
