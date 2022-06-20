@@ -6,6 +6,8 @@ another. Assume we have the following conversion rates:
 - (USD => CAD) 2.42
 - (CAD => GBP) 0.62
 - (USD => EUR) 0.88
+
+
 If we want to convert USD to EUR it’s pretty straight forward, we just multiply the amount by the
 conversion rate which is XX. Also, to convert CAD to USD we may divide the amount by the conversion
 rate which is YY. On the other hand, notice that if we want to convert CAD to EUR there’s no direct way
